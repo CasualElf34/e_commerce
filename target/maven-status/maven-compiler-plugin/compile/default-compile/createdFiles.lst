@@ -1,7 +1,0 @@
-Login.class
-Register.class
-com/commerce/controller/HomeController.class
-com/commerce/EcommerceApplication.class
-com/commerce/controller/RegisterController.class
-com/commerce/controller/LoginController.class
-main/java/com/commerce/model/Home.class
